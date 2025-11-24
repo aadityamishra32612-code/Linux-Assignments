@@ -58,7 +58,7 @@ CTRL + X   (exit)
 #### 5. Run the Script
 `./rename_files.sh`
 ### Output:
-![alt text](image-3.png)
+![alt text](<Screenshot from 2025-11-24 10-42-04.png>)
 ### Q2.Search recursively for files with a given extension or larger than a specified size.
 #### 1. Overview
 

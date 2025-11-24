@@ -7,3 +7,7 @@
 [ASSIGNMENT:1](https://github.com/aadityamishra32612-code/Linux-Assignments/blob/main/Aditya_Mishra.md)
 
 [ASSIGNMENT:1 PDF](https://github.com/aadityamishra32612-code/Linux-Assignments/blob/main/Aditya_MIshra.pdf)
+
+[ASSIGNMENT:2](https://github.com/aadityamishra32612-code/Linux-Assignments/blob/main/Aditya_Mishra2.md)
+
+[ASSIGNMENT:2 PDF](https://github.com/aadityamishra32612-code/Linux-Assignments/blob/main/Aditya_Mishra2.pdf)
